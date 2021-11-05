@@ -2,7 +2,7 @@ import request from '@/utils/request'
 import API from './constants'
 
 /**
- * 根据id查询商品信息
+ * 根据id查询商品信
  * @param {*} id 商品的id
  * @returns 查询到的详情数据
  */
